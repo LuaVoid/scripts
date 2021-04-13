@@ -1,6 +1,9 @@
 --[[
 Credits to 
 890509 / NotPr0
+
+Loadstring:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaVoid/scripts/main/Project%20Pokeon/Classic%20PS.lua", true))()
 ]]
 warn("Credits to 890509 / NotPr0")
 wait()
